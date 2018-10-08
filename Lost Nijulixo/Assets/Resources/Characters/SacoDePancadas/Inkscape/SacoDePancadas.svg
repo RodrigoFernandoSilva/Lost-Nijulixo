@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="448"
+   height="448"
+   viewBox="0 0 118.53333 118.53334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="SacoDePancadas.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="-2714.5039"
+     inkscape:cy="-1528.5433"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer6"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="701"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Operador" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Base">
+    <path
+       style="display:inline;fill:#d4aa00;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m -717.36865,596.96974 v -49.66179 l 12.26658,-7e-5 v -12.61612 h 49.08492 l -4e-5,12.61563 h 13.05109 v 49.76069 l -12.48472,3e-5 -0.13135,24.54277 h -49.47891 l -0.0657,-24.64094 z"
+       id="path4549"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="C:\Users\homework\Desktop\Protagonist\Parts\Body\Body01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#c7a000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -688.82324,547.18036 c 0,0 -14.2875,15.875 1.32292,63.23542 l -17.56075,11.1951 -0.0657,-24.64094 -12.24187,-2e-4 v -49.66179 h 12.26658 v -12.61619 z"
+       id="path4573"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\homework\Desktop\Protagonist\Parts\Body\Body01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#b49100;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -705.10207,547.30795 h -12.26658 v 49.66179 l 12.24187,2e-4 0.0657,24.64094 h 49.4789 l 0.13135,-24.54277 12.48472,-3e-5 v -49.76069 h -13.05109 l 4e-5,-12.61563 h -49.08492 v 12.61612 l 49.08496,-4.9e-4 0.56636,49.76065 -12.419,-0.0983 v 12.6163 h -24.90373 l 5.9e-4,-12.6163 -12.35389,-2e-4 z"
+       id="path4547"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\homework\Desktop\Protagonist\Parts\Body\Body01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#d4aa00;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -704.8841,521.43384 -0.063,-12.47813 h -12.61147 v -12.61206 h -12.47873 v -49.64923 l 12.3459,-1.4e-4 -0.13266,-12.47872 h 13.27523 v -12.21322 h 49.25114 l -4e-5,11.94771 h 12.24625 l -10e-6,12.31278 12.31296,0.0332 v 50.08045 l -12.31297,3.8e-4 -0.16578,12.57827 -12.21321,5.9e-4 v 12.47813 z"
+       id="path4540"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Game JaaJ\Assets\Resources\Protagonist\Images\Parts\Head\Head01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#c7a000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -687.50032,431.82203 c 0,0 -34.13125,46.30208 -3.96875,81.49167 l -13.41503,8.12014 -0.0631,-12.47816 -12.61143,3e-5 v -12.61206 h -12.47873 v -49.64923 h 12.34605 l -0.13282,-12.47886 h 13.27523 l 1e-5,-12.21322 z"
+       id="path4571"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Game JaaJ\Assets\Resources\Protagonist\Images\Parts\Head\Head01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#b49100;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -704.94714,508.95571 h -12.61147 v -12.61206 h -12.47873 v -49.64923 h 12.34605 l -0.13282,-12.47886 h 13.27523 v -12.21322 h 49.25114 l -4e-5,11.94771 h 12.24626 l -10e-6,12.31278 12.31294,0.0332 v 50.08045 l -12.31295,3.8e-4 -0.16578,12.57827 h -12.21323 v 12.47873 h -49.45355 l -0.0631,-12.47813 h 49.51663 l 0.0663,-12.57887 12.31267,-3.8e-4 -3e-5,-50.11359 -12.31264,-4e-5 0.0665,-12.31274 -49.25111,0.26546 v 12.47868 h -13.14258 l 0.13283,49.64938 h 12.34589 z"
+       id="path4484"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Game JaaJ\Assets\Resources\Protagonist\Images\Parts\Head\Head01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#c7a000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4960"
+       width="31.056719"
+       height="62.113438"
+       x="-692.60217"
+       y="632.27875"
+       ry="0"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       ry="0"
+       y="642.00739"
+       x="-683.62189"
+       height="42.656216"
+       width="13.096207"
+       id="rect4962"
+       style="opacity:1;vector-effect:none;fill:#d4aa00;fill-opacity:1;stroke:none;stroke-width:5.38137627;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Junta" />
+</svg>

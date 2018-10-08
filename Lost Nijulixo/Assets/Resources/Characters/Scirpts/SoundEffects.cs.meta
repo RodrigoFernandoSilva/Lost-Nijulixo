@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b0fe6d7fb85879478b8e5202f1d89fd
+timeCreated: 1532495510
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundPrefab: {fileID: 1907078616491018, guid: 9fea1f995c69a544f9327d13e376bb0e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

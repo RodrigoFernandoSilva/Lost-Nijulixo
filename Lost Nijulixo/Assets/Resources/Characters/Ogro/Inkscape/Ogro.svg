@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="448"
+   height="448"
+   viewBox="0 0 118.53333 118.53334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Ogro.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4993">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -101.26174,99.216424 0.98222,33.535646 h 34.42431 v 69.59698 h 170.62486 v -68.28736 l 35.17267,0.18709 1.49671,-243.21526 -274.64616,0.74835 -2.99342,208.042596 z"
+         id="path4995"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccc" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.044194175"
+     inkscape:cx="1904.7371"
+     inkscape:cy="-488.30613"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer7"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="701"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Junta">
+    <g
+       id="g4718"
+       transform="matrix(4.25307,0.6550524,-0.6550524,4.25307,562.30852,-823.96114)"
+       style="display:inline"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Head\Head0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4714"
+         d="m -89.826038,103.85414 c 0,0 -9.657291,-50.799976 8.863542,-74.083306"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="7.1391239"
+         cy="32.269531"
+         cx="-83.441551"
+         id="circle4716"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:8.47978592;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5024"
+       d="m 145.52083,339.725 -18.52084,52.91667 3.70418,61.38332 72.49582,10.05417 59.26666,-13.75833 -16.40416,-41.275 -36.5125,-69.32083 -23.28333,-13.75833 z"
+       style="fill:#996343;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#996343;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M -97.366663,342.37083 -115.8875,395.2875 -97.366663,442.91249 -39.6875,466.72499 2.6458332,442.91249 3.175,411.69166 -33.3375,342.37083 -56.62083,328.6125 Z"
+       id="path5022"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Foot\Foot.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#774d34;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m -77.828882,327.69847 c 0,0 -18.479447,70.23486 15.916385,127.91402 l -39.158333,3.70417 -10.58333,-78.31667 0.52916,-46.56666 z"
+       id="path5060"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Foot\Foot.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#45c432;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m -127.19985,-107.46977 -17.79181,94.769774 18.91431,114.021176 35.172701,29.56001 35.5468,69.97116 88.166182,20.33931 81.336117,-20.33931 35.1727,-67.7261 L 176.74166,12.700003 148.56885,-108.21813 11.641666,-125.94166 Z"
+       id="path5020"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Body\Body0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#3aa42a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -127.19985,-107.46977 h 73.224853 c 0,0 -31.369371,105.6034489 -17.265341,205.894769 l -55.211212,0.276936 -16.95261,-146.856097 z"
+       id="path5054"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Body\Body0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#996343;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M -90.904649,98.701933 H 161.6446 l -13.82415,34.798497 -33.676,67.35192 -81.336117,20.33931 -88.166182,-20.33931 -35.5468,-68.10028 z"
+       id="path5026"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Body\Body0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#774d34;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m -71.240337,98.424999 c 0,0 36.844504,83.079161 85.527837,104.245831 l -57.149999,23.8125 -48.042151,-95.60214 -35.5469,-32.179255 z"
+       id="path5056"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Body\Body0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5018"
+       d="m 287.42468,-107.94999 -21.13883,49.123271 20.60967,87.930888 48.98734,22.825599 51.02516,-21.767266 26.80371,-48.578071 -25.74538,-87.417761 -48.34173,-23.33873 z"
+       style="fill:#45c432;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5052"
+       d="m 285.30802,-107.94999 52.19994,-21.22207 c 0,0 -62.86174,84.564078 -3.74176,181.101828 L 286.89552,29.104169 264.16919,-58.826719 Z"
+       style="fill:#3aa42a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#45c432;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m -376.2375,-107.94999 -21.13883,49.123271 20.60967,87.930888 48.98734,22.825599 51.02516,-21.767266 26.80371,-48.578071 -25.74538,-87.417761 -48.34173,-23.33873 z"
+       id="path5016"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Hand\Hand0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#3aa42a;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m -376.2375,-107.94999 52.19994,-21.22207 c 0,0 -62.86174,84.564078 -3.74176,181.101828 L -374.65,29.104169 -397.37633,-58.826719 Z"
+       id="path5050"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Hand\Hand0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#45c432;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m -99.905342,-453.20963 -17.586338,98.78282 18.33469,106.64054 34.424313,35.17267 85.686607,18.33469 84.56407,-20.57975 34.42432,-32.17926 25.44406,-108.88561 -24.32153,-98.40862 -35.17267,-35.17268 -96.9119241,-17.58632 -74.4612879,16.4638 z"
+       id="path5014"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Head\Head0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#3aa42a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.449999,-497.41663 -32.772872,31.74997 c -40.947749,1.39451 -93.774473,79.99863 -34.876121,258.66572 l -41.533683,-5.61266 -34.424313,-35.17267 -0.748352,-205.42336 35.921019,-35.54684 72.9645789,-18.33468 z"
+       id="path5048"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Head\Head0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <image
+       y="-567.03754"
+       x="-1666.4885"
+       id="image4968"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHIAAAB8CAYAAAC11+QNAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA
+IGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAIQSURBVHja7N09TsNA
+FEXhGFJGgo6KComSCjo6GgpWQEvBDmANbACJgpY1IEUsgRRsgQ1QpDd1rMjOxDP22P5OF/HjxEf3
+PV5mmBRlWc4wfA7cAiJBJIjEVuZjeSFFUUT9q60sy0IiQSSI1CPH0BOvXs83vn58sYj6+3PvmRKp
+tIJIxG81Q3nTPHVPbGJ5vcp6zpRIpRVEgkgQSSSIBJEgkkgQiV6ZT+WFfr6cbjy+ff4N+v7D2Uoi
+QSSInBbWI3fEeiSIBJHmyKmw/qj/+uJeIkEkiDRHDvMwiNRzZe5zo0QqrSASeuS+PbMtzhAAkSBS
+j3SooESCSBCJrey9Hhk6t7Wdy2LPiV3Planvl0QqrSAS/fXItut/oWe7NV2vSup9rbGff+z7JZFK
+K4gEkSCSSBAJIkEkkSASRIJIEEkkMmTn9cjqeljXe3aGRtf3SyKVVhCJ/npk7j3v72e98Tj1Hp7c
+7pdEKq0gEvn0yL7nsKe7y9qfP/s+ivp8lhIJIkHk1BjNWXSNPfMkrGc+vn9lPTdLpNIKIkEkiCQS
+RMIc2W6OTI05EkSCSD0SEgkiQSSIJBJEgkjUMJjPWM79DPW+34uVSKUVRGK6PbJKdR9rdd9q6Jng
+uV1PIpVWEAkiQSSIJBLmyG55e7jpdM7r+noSqbSCSCRnMPtaY/+vR+jnP6a+nkSCSCKhR0IiQeT4
++R8APui4rNgRP0MAAAAASUVORK5CYII=
+"
+       preserveAspectRatio="none"
+       height="1072.6401"
+       width="986.13696" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m -99.15699,-213.36196 v -34.42431 h -38.16609 v -205.42336 h 37.417735 v -37.41772 h 34.424313 v -32.17926 H 105.89218 v 33.30178 h 35.17267 v 35.17268 h 34.05014 v 207.29423 h -35.17267 v 32.17926 H 105.518 v 32.9276 H -64.732677 v -30.68254 l 169.876507,-1.12253 v -33.30179 h 35.92102 v -207.29424 h -35.17267 v -34.42431 H -63.984323 v 34.79849 H -100.6537 v 206.92006 h 35.498109 l 0.422914,34.42432 z"
+       id="path4975"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Head\Head0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m -134.40833,309.03333 v 169.8625 H 37.570833 V 411.69166 H 3.175 v -73.025 h -36.5125 v 70.37917 H 2.6458332 v 33.86666 H -97.366663 V 342.37083 H -33.3375 V 307.975 Z"
+       id="path4977"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Foot\Foot.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4979"
+       d="m 109.00833,309.03333 v 169.8625 h 171.97916 v -67.20417 h -34.39583 v -73.025 h -36.5125 v 70.37917 h 35.98333 v 33.86666 H 146.05 V 342.37083 h 64.02916 V 307.975 Z"
+       style="fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+    <path
+       style="fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m -376.2375,-107.94999 h -33.86666 33.86666 l 0.52917,-33.3375 h 101.07083 v 34.925 h 32.80834 V 30.162502 h -34.925 v 32.808333 h -100.0125 V 29.104169 h -33.3375 V -107.94999 h 33.86666 l 1.5875,137.054159 h 98.95417 V -105.83333 Z"
+       id="path4981"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Hand\Hand0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4983"
+       d="m 285.30802,-107.94999 h -33.86666 33.86666 l 0.52917,-33.3375 h 101.07083 v 34.925 h 32.80834 V 30.162502 h -34.925 V 62.970835 H 284.77886 V 29.104169 h -33.3375 V -107.94999 h 33.86666 l 1.5875,137.054159 h 98.95417 V -105.83333 Z"
+       style="fill:#000000;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -160.50165,-107.55277 v 208.87395 h 34.4243 v 29.56001 h 35.1727 v 106.26636 h 240.2218 v -104.0213 h 37.79192 v -241.34438 h -38.54022 v -34.42431 h -275.7687 v 35.17267 h 275.0203 v 240.9702 h -33.676 v 67.35192 h -169.5023 v -68.10028 h -35.5468 V 98.701935 h -35.5469 l -0.7483,-206.171705 z"
+       id="path4997"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Body\Body0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#fd4d4f;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect4999"
+       width="38.629166"
+       height="37.570831"
+       x="-6.5903306"
+       y="-350.83749"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Head\Head0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       y="-350.83749"
+       x="90.69577"
+       height="37.570831"
+       width="38.629166"
+       id="rect5001"
+       style="opacity:1;vector-effect:none;fill:#fd4d4f;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Head\Head0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#396a32;fill-opacity:1;stroke:none;stroke-width:14.16822052;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect5003"
+       width="77.543602"
+       height="37.570831"
+       x="27.834017"
+       y="-286.479"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Head\Head0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       transform="matrix(4.3032194,0,0,4.3032194,3411.1337,-112.2024)"
+       id="g5047"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Lost Nijulixo\Assets\Resources\Characters\Ogro\Inkscape\Head\Head0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g4741"
+         transform="translate(-709.66941,-185.66957)"
+         style="display:inline;stroke:#000000;stroke-opacity:1">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4737"
+           d="m -89.826038,103.85414 c 0,0 -9.657291,-50.799976 8.863542,-74.083306"
+           style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           r="7.1391239"
+           cy="32.269531"
+           cx="-83.441551"
+           id="circle4739"
+           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:8.47978592;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers" />
+      </g>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -809.42672,-79.229074 c 0,0 8.92969,-4.894793 19.44688,-2.91042"
+         id="path4743"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g5125"
+       transform="matrix(0.66835257,0,0,0.66835257,80.896126,-467.67095)"
+       inkscape:export-xdpi="24.142952"
+       inkscape:export-ydpi="24.142952">
+      <path
+         inkscape:transform-center-y="-21.705509"
+         inkscape:transform-center-x="1.6216316e-005"
+         d="m 1393.0034,-279.60426 75.1901,130.23307 -150.3802,0 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-0.52359878"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="43.411022"
+         sodipodi:r1="86.822044"
+         sodipodi:cy="-192.78221"
+         sodipodi:cx="1393.0034"
+         sodipodi:sides="3"
+         id="path5110"
+         style="opacity:1;vector-effect:none;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star" />
+      <path
+         transform="rotate(90,1599.7659,28.51425)"
+         sodipodi:type="star"
+         style="opacity:1;vector-effect:none;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path5112"
+         sodipodi:sides="3"
+         sodipodi:cx="1593.9955"
+         sodipodi:cy="12.266965"
+         sodipodi:r1="86.822044"
+         sodipodi:r2="43.411022"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.52359878"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 1593.9955,-74.555079 75.1901,130.233068 -150.3802,-4e-6 z"
+         inkscape:transform-center-x="-21.705511"
+         inkscape:transform-center-y="-1.7370606e-005" />
+      <path
+         inkscape:transform-center-y="-6.8429633e-005"
+         inkscape:transform-center-x="21.705521"
+         d="m 1593.9955,-74.555079 75.1901,130.233068 -150.3802,-4e-6 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-0.52359878"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="43.411022"
+         sodipodi:r1="86.822044"
+         sodipodi:cy="12.266965"
+         sodipodi:cx="1593.9955"
+         sodipodi:sides="3"
+         id="path5114"
+         style="opacity:1;vector-effect:none;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star"
+         transform="matrix(0,1,1,0,1181.6805,-1571.2516)" />
+      <rect
+         y="190.37538"
+         x="1354.089"
+         height="766.31512"
+         width="95.789398"
+         id="rect5106"
+         style="opacity:1;vector-effect:none;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:16.32993126;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         inkscape:transform-center-y="21.705514"
+         inkscape:transform-center-x="-8.2190922e-005"
+         d="m -1399.6453,-320.60845 75.1901,130.23307 -150.3802,-1e-5 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-0.52359878"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="43.411022"
+         sodipodi:r1="86.822044"
+         sodipodi:cy="-233.78641"
+         sodipodi:cx="-1399.6453"
+         sodipodi:sides="3"
+         id="path5116"
+         style="opacity:1;vector-effect:none;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+         sodipodi:type="star"
+         transform="scale(-1)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#767676;fill-opacity:1;stroke:none;stroke-width:17.63157463;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect5108"
+         width="149.67093"
+         height="571.74292"
+         x="1327.1482"
+         y="944.7168" />
+      <circle
+         r="200.55904"
+         cy="23.303787"
+         cx="1399.8109"
+         id="path5093"
+         style="opacity:1;vector-effect:none;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:8.70129871;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="448"
+   height="448"
+   viewBox="0 0 118.53333 118.53334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Fuka.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25000001"
+     inkscape:cx="-1078.5855"
+     inkscape:cy="-3.7187727"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer7"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="701"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Fuka"
+     style="display:inline">
+    <g
+       style="display:inline"
+       id="g5035"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         style="display:inline;stroke:#000000;stroke-opacity:1"
+         transform="translate(-346.66108,-185.66957)"
+         id="g5056">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -89.826038,103.85414 c 0,0 -9.657291,-50.799976 8.863542,-74.083306"
+           id="path5052"
+           inkscape:connector-curvature="0" />
+        <circle
+           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:8.47978592;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+           id="circle5054"
+           cx="-83.441551"
+           cy="32.269531"
+           r="7.1391239" />
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5058"
+         d="m -446.41839,-79.229074 c 0,0 8.92969,-4.894793 19.44688,-2.91042"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4984"
+       transform="rotate(8.7558209,930.72924,-2035.5567)"
+       style="display:inline"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4980"
+         d="m -89.826038,103.85414 c 0,0 -9.657291,-50.799976 8.863542,-74.083306"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="7.1391239"
+         cy="32.269531"
+         cx="-83.441551"
+         id="circle4982"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:8.47978592;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <path
+       style="display:inline;fill:#d99446;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -447.824,0.73384 -0.063,-12.47813 h -12.61146 v -12.61206 h -12.47873 v -49.64923 l 12.3459,-1.4e-4 -0.13266,-12.478723 h 13.27522 v -12.213212 h 49.25115 l -4e-5,11.947705 h 12.24625 l -10e-6,12.31278 12.31296,0.0332 v 50.08045 l -12.31297,3.8e-4 -0.16578,12.57827 -12.21321,5.9e-4 V 0.73385 Z"
+       id="path4986"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#d68c38;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -412.25011,-87.158179 c 0,0 -16.3056,1.853227 -25.47698,10.500989 -7.87353,16.33176 -16.77473,45.82921 3.31813,69.27089 l -13.41504,8.12014 -0.0631,-12.47816 -12.61142,3e-5 v -12.61206 h -12.47873 v -49.64923 h 12.34605 l -0.13282,-12.478863 h 13.27523 v -12.213212 z"
+       id="path4988"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4990"
+       d="m -426.97151,-82.139494 c 0,0 -10.1315,10.243964 -19.44688,2.910421 l 7.99033,-3.217597 9.96247,0.187089 z"
+       style="display:inline;fill:#d68c38;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#d2842b;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -447.88703,-11.74429 h -12.61147 v -12.61206 h -12.47873 v -49.64923 h 12.34605 l -0.13282,-12.478863 h 13.27523 v -12.213212 h 49.25114 l -4e-5,11.947705 h 12.24626 l -1e-5,12.31278 12.31294,0.0332 v 50.08045 l -12.31295,3.8e-4 -0.16578,12.57827 h -12.21323 V 0.73386 H -447.824 l -0.0631,-12.47813 h 49.51664 l 0.0663,-12.57887 12.31267,-3.8e-4 -3e-5,-50.11359 -12.31264,-4e-5 0.0665,-12.31274 -49.25111,0.265464 v 12.478676 h -13.14258 l 0.13283,49.64938 h 12.34589 z"
+       id="path4992"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       transform="translate(-346.19335,-178.46666)"
+       id="g5004"
+       style="display:inline"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g5000"
+         transform="translate(0,1.7e-5)" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path5002"
+         d="m -80.778161,96.327166 c 0,0 -10.131501,10.243964 -19.446879,2.910421 l 7.990326,-3.217597 9.962472,0.187089 z"
+         style="fill:#d0d3c3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <rect
+       style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74341303;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect5006"
+       width="12.67246"
+       height="12.015369"
+       x="-435.94803"
+       y="-47.807495"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       y="-47.807495"
+       x="-398.37912"
+       height="12.015369"
+       width="12.67246"
+       id="rect5008"
+       style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74341303;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       style="display:inline;stroke:#000000;stroke-opacity:1"
+       transform="translate(-346.66108,-185.66957)"
+       id="g5014"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -89.826038,103.85414 c 0,0 -9.657291,-50.799976 8.863542,-74.083306"
+         id="path5010"
+         inkscape:connector-curvature="0" />
+      <circle
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:8.47978592;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle5012"
+         cx="-83.441551"
+         cy="32.269531"
+         r="7.1391239" />
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5016"
+       d="m -446.41839,-79.229074 c 0,0 8.92969,-4.894793 19.44688,-2.91042"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -397.61809,-54.3366 h 15.8372"
+       id="path5018"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5020"
+       d="m -439.05823,-54.3366 h 15.8372"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       sodipodi:nodetypes="ccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path5028"
+       d="m -447.824,0.73384 -0.063,-12.47813 h -12.61146 v -12.61206 h -12.47873 v -49.64923 l 12.3459,-1.4e-4 -0.13266,-12.478723 h 13.27522 v -12.213212 h 49.25115 l -4e-5,11.947705 h 12.24625 l -10e-6,12.31278 12.31296,0.0332 v 50.08045 l -12.31297,3.8e-4 -0.16578,12.57827 -12.21321,5.9e-4 V 0.73385 Z"
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path5030"
+       d="m -412.25011,-87.158179 c 0,0 -7.43142,1.025326 -14.81684,3.987359 -2.51259,5.82674 -8.69842,6.230044 -10.66014,6.51363 -7.87353,16.33176 -15.27802,45.548577 3.31813,69.27089 l -13.41504,8.12014 -0.0631,-12.47816 -12.61142,3e-5 v -12.61206 h -12.47873 v -49.64923 h 12.34605 l -0.13282,-12.478863 h 13.27523 v -12.213212 z"
+       style="display:inline;fill:#090909;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path5034"
+       d="m -447.88703,-11.74429 h -12.61147 v -12.61206 h -12.47873 v -49.64923 h 12.34605 l -0.13282,-12.478863 h 13.27523 v -12.213212 h 49.25114 l -4e-5,11.947705 h 12.24626 l -1e-5,12.31278 12.31294,0.0332 v 50.08045 l -12.31295,3.8e-4 -0.16578,12.57827 h -12.21323 V 0.73386 H -447.824 l -0.0631,-12.47813 h 49.51664 l 0.0663,-12.57887 12.31267,-3.8e-4 -3e-5,-50.11359 -12.31264,-4e-5 0.0665,-12.31274 -49.25111,0.265464 v 12.478676 h -13.14258 l 0.13283,49.64938 h 12.34589 z"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:#c57b28;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -385.96275,-60.457291 h -60.30677 v 30.691666 h 60.30677 z"
+       id="path5066"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       y="-47.807495"
+       x="-435.94803"
+       height="12.015369"
+       width="12.67246"
+       id="rect5048"
+       style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74341303;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74341303;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect5050"
+       width="12.67246"
+       height="12.015369"
+       x="-398.37912"
+       y="-47.807495" />
+    <path
+       style="display:inline;fill:#a66722;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -446.2695,-29.765625 v -30.691666 l 2.40165,-0.0065 c 0,0 -1.40338,27.919558 -0.95904,30.690809 z"
+       id="path4951"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Foot\Fuka_Foot.png"
+       inkscape:connector-curvature="0"
+       id="path4908"
+       d="m -441.50038,252.36315 v -36.99419 h 24.64089 v 12.22189 h 12.48472 v 12.48472 h 12.22188 v 12.22188 z"
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Foot\Fuka_Foot.png"
+       inkscape:connector-curvature="0"
+       id="path4910"
+       d="m -423.99404,227.4314 c 0,0 -3.175,4.82865 0,12.43542 l -17.50634,12.49633 v -36.99419 z"
+       style="display:inline;fill:#090909;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Foot\Fuka_Foot.png"
+       inkscape:connector-curvature="0"
+       id="path4912"
+       d="m -441.50038,215.36896 v 36.99419 l 49.34749,-0.0657 v -12.22192 h -12.22188 v -12.48472 h -12.48472 v 12.3053 h -12.48748 v -12.35919 l 12.48748,0.0539 v -12.2219 z"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Hand\Fuka_Hand.png"
+       inkscape:connector-curvature="0"
+       id="path4914"
+       d="m -440.66729,171.54805 -12.28823,0.13136 v -36.86246 l 12.28823,-0.26242 V 122.1351 h 24.6401 v 12.41939 h 12.41916 v 37.05953 l -12.28759,-2.8e-4 v 12.35359 h -24.77167 z"
+       style="display:inline;fill:#c57b28;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Hand\Fuka_Hand.png"
+       inkscape:connector-curvature="0"
+       id="path4916"
+       d="m -431.60081,134.29807 c 0,0 -9.12813,15.08125 0.13229,37.30625 l -9.19877,12.36302 V 171.5481 l -12.28823,0.13131 v -36.86246 l 12.28823,-0.26236 v -12.41948 z"
+       style="display:inline;fill:#a66722;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Hand\Fuka_Hand.png"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4918"
+       d="m -452.95552,171.67942 v -36.86246 l 12.28823,-0.26246 v -12.41939 h 24.6401 v 12.41939 h 12.41916 v 37.05954 l -12.28759,-3.3e-4 v 12.35363 h -24.77167 v -12.41933 l 24.77167,0.0658 -0.13157,-37.05922 h -24.6401 v 36.99351 z"
+       style="display:inline;fill:#8c571d;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Body\Fuka_Body.png"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4920"
+       d="M -457.23581,76.26974 V 26.60795 l 12.26658,-7e-5 V 13.99176 h 49.08492 l -4e-5,12.61563 h 13.05109 v 49.76069 l -12.48472,3e-5 -0.13135,24.54277 h -49.47891 l -0.0657,-24.64094 z"
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       style="display:inline"
+       id="g5108"
+       transform="translate(-133.20713)"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Body\Fuka_Body.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#00eb00;fill-opacity:1;stroke:none;stroke-width:3.69684529;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect5091"
+         width="51.329109"
+         height="10.847921"
+         x="-313.39896"
+         y="60.986454"
+         ry="0" />
+      <path
+         sodipodi:nodetypes="ccccscsccc"
+         inkscape:connector-curvature="0"
+         id="rect5099"
+         d="m -313.46707,63.748451 h 51.39727 v 3.720297 h -19.71145 c 0,0 0.89326,2.002684 0.1994,2.418427 -0.95355,0.571345 -2.80142,-1.809229 -2.80142,-1.809229 0,0 -2.29694,2.377522 -3.2151,1.607654 -0.59064,-0.495243 0.65774,-2.216852 0.65774,-2.216852 h -26.52644 z"
+         style="opacity:1;vector-effect:none;fill:#009800;fill-opacity:1;stroke:none;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Body\Fuka_Body.png"
+       inkscape:connector-curvature="0"
+       id="path4922"
+       d="m -428.69041,26.48029 c 0,0 -14.2875,15.875 1.32292,63.23542 l -17.56076,11.1951 -0.0657,-24.64094 -12.24186,-2e-4 V 26.60788 h 12.26658 V 13.991687 Z"
+       style="display:inline;fill:#090909;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Body\Fuka_Body.png"
+       sodipodi:nodetypes="ccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4924"
+       d="m -444.96923,26.60795 h -13.32491 v 49.66179 l 13.30019,2e-4 0.0657,24.64094 h 49.47891 l 0.13135,-24.54277 12.48472,-3e-5 V 26.60739 h -13.05109 l 4e-5,-12.61563 h -49.08492 v 12.61612 l 49.08496,-4.9e-4 0.56636,49.76065 -12.419,-0.0983 v 12.6163 h -24.90373 l 5.9e-4,-12.6163 -12.3539,-2e-4 z"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect5116"
+       d="m -446.60609,60.936361 12.55504,-0.02339 0.86529,5.497441 1.0056,5.423957 h -14.42593 z"
+       style="display:inline;opacity:1;vector-effect:none;fill:#00c300;fill-opacity:1;stroke:none;stroke-width:3.69684529;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Body\Fuka_Body.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path5120"
+       d="m -446.6742,63.748451 13.05413,0.03307 0.59967,3.654152 -13.6538,0.03307 z"
+       style="display:inline;opacity:1;vector-effect:none;fill:#007200;fill-opacity:1;stroke:none;stroke-width:0.86500001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Body\Fuka_Body.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       style="display:inline"
+       id="g4747"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Tori\Images\Ninja\Sword.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(-42.333333,154.51667)">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4672"
+         d="m -394.76388,158.80816 54.66264,-10e-6 v -15.77834 l -54.69484,-0.014 z"
+         style="fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.06438473px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#131313;fill-opacity:1;stroke:none;stroke-width:0.04588777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -386.91654,155.7854 46.22032,-1e-5 v -9.73684 l -46.24327,-0.01 z"
+         id="path4732"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4674"
+         d="m -394.79608,144.07414 9.18104,-0.0523 -5e-5,1.63896 c 1.23232,1.99641 1.19996,8.74872 0,10.57279 v 1.54792 l -9.14879,-0.0316 z"
+         style="fill:#babcad;fill-opacity:1;stroke:none;stroke-width:0.06438473px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4678"
+         d="m -376.82428,150.65249 -2.70668,-4.72091 -2.7067,4.72091 2.7067,4.72075 z"
+         style="opacity:1;vector-effect:none;fill:#babcad;fill-opacity:1;stroke:none;stroke-width:0.23532188;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4709"
+         d="m -338.87031,144.15838 h 110.98627 l -5.89885,13.31522 h -105.1178 z"
+         style="fill:#b3b3b1;fill-opacity:1;stroke:none;stroke-width:0.06438473px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#babcad;fill-opacity:1;stroke:none;stroke-width:0.23532188;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m -366.24094,150.65249 -2.70668,-4.72091 -2.7067,4.72091 2.7067,4.72075 z"
+         id="path4719"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4721"
+         d="m -355.6576,150.65249 -2.70668,-4.72091 -2.7067,4.72091 2.7067,4.72075 z"
+         style="opacity:1;vector-effect:none;fill:#babcad;fill-opacity:1;stroke:none;stroke-width:0.23532188;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#babcad;fill-opacity:1;stroke:none;stroke-width:0.23532188;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m -345.07427,150.65249 -2.70667,-4.72091 -2.7067,4.72091 2.7067,4.72075 z"
+         id="path4723"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4728"
+         d="m -339.01644,159.59026 h 107.35022 l 5.89885,-17.54855 h -113.10294 v 4.45469 h 107.61261 l -3.85583,9.03564 -103.9288,-0.0364 z"
+         style="fill:#979794;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path4707"
+         d="m -337.61701,139.94106 v 21.79032 h -4.43451 v -21.79032 z"
+         style="fill:#5d5c5d;fill-opacity:1;stroke:none;stroke-width:0.06438473px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4734"
+         d="m -385.41806,146.03552 -7.50005,0.0165 v 9.87353 l 7.53583,-0.13941 c -0.061,0.17573 -0.14455,0.31534 -0.23281,0.44742 v 2.60624 l -10.20712,-0.0317 -0.0322,-15.79236 10.23937,-0.0523 -5e-5,2.69729 c 0.0704,0.10603 0.13761,0.22481 0.19703,0.37475 z"
+         style="fill:#979a83;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -452.95552,134.81696 v 22.47783 l 49.34749,0.0139 V 134.5545 l -12.41915,-1e-5 v -12.41938 l -24.64011,-1e-5 v 12.4194 z"
+       id="path4676"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Hand\Fuka_Hand.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#090909;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -431.60081,134.29807 c -5.17454,10.23319 -3.68763,23.01875 -3.68763,23.01875 l -5.40365,-0.0232 0.0248,-22.73906 v -12.41948 z"
+       id="path4682"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Hand\Fuka_Hand.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -452.95552,157.39192 v -22.57496 l 12.28823,-0.26246 v -12.41939 h 24.6401 v 12.41939 h 12.41916 v 22.77204 l -12.28759,-3.3e-4 -0.13157,-22.77162 h -24.6401 l -0.0248,22.73908 z"
+       id="path4680"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Hand\Fuka_Hand.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head01.png"
+       sodipodi:nodetypes="ccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path5111"
+       d="m -235.53217,-0.19207879 -0.063,-12.47813021 h -12.61146 v -12.61206 h -12.47873 v -49.649227 l 12.3459,-1.41e-4 -0.13266,-12.478723 h 13.27522 v -12.213211 h 49.25115 l -4e-5,11.947704 h 12.24625 l -10e-6,12.31278 12.31296,0.0332 v 50.080448 l -12.31297,2.7e-4 -0.16578,12.57827 -12.21321,5.3e-4 v 12.47813021 z"
+       style="display:inline;fill:#d99446;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head01.png"
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path5113"
+       d="m -199.95828,-88.084095 c 0,0 -16.3056,1.853226 -25.47698,10.500989 -7.87353,16.331757 -16.77473,45.829207 3.31813,69.2708872 l -13.41504,8.12014001 -0.0631,-12.47816021 -12.61142,3e-5 v -12.61206 h -12.47873 v -49.649227 h 12.34605 l -0.13282,-12.478864 h 13.27523 v -12.213211 z"
+       style="display:inline;fill:#d68c38;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head01.png"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path5117"
+       d="m -235.5952,-12.670209 h -12.61147 v -12.61206 h -12.47873 v -49.649227 h 12.34605 l -0.13282,-12.478864 h 13.27523 v -12.213211 h 49.25114 l -4e-5,11.947704 h 12.24626 l -1e-5,12.31278 12.31294,0.0332 v 50.080448 l -12.31295,2.7e-4 -0.16578,12.57827 h -12.21323 v 12.47873021 h -49.45356 l -0.0631,-12.47802021 h 49.51664 l 0.0663,-12.57887 12.31267,-2.6e-4 -3e-5,-50.113594 -12.31264,-3.9e-5 0.0665,-12.31274 -49.25111,0.265464 v 12.478676 h -13.14258 l 0.13283,49.649383 h 12.34589 z"
+       style="display:inline;fill:#d2842b;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -235.53217,-0.19207879 -0.063,-12.47813021 h -12.61146 v -12.61206 h -12.47873 v -49.649227 l 12.3459,-1.41e-4 -0.13266,-12.478723 h 13.27522 l 0.52916,-11.684041 48.72199,-0.52917 -4e-5,11.947704 h 12.24625 l -10e-6,12.31278 12.31296,0.0332 v 50.080448 l -12.31297,2.7e-4 -0.16578,12.57827 -12.21321,5.3e-4 v 12.47813021 z"
+       id="path5147"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#090909;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -205.24995,-88.084095 c -28.87662,7.929105 -29.11672,62.915036 -16.86718,79.7718762 l -13.41504,8.12014001 -0.0631,-12.47816021 -12.61142,3e-5 v -12.61206 h -12.47873 v -49.649227 h 12.34605 l -0.13282,-12.478864 h 13.27523 v -12.213211 z"
+       id="path5149"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -235.5952,-12.670209 h -12.61147 v -12.61206 h -12.47873 v -49.649227 h 12.34605 l -0.13282,-12.478864 h 13.27523 v -12.213211 h 49.25114 l -4e-5,11.947704 h 12.24626 l -1e-5,12.31278 12.31294,0.0332 v 50.080448 l -12.31295,2.7e-4 -0.16578,12.57827 h -12.21323 v 12.47873021 h -49.45356 l -0.0631,-12.47802021 h 49.51664 l 0.0663,-12.57887 12.31267,-2.6e-4 -3e-5,-50.113594 -12.31264,-3.9e-5 0.0665,-12.31274 -49.25111,0.265464 v 12.478676 h -13.14258 l 0.13283,49.649383 h 12.34589 z"
+       id="path5151"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       style="display:inline"
+       id="g5202"
+       transform="matrix(-1,0,0,1,-232.507,-0.92591879)"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         style="display:inline;stroke:#000000;stroke-opacity:1"
+         transform="rotate(4.9091706,2127.6605,1094.63)"
+         id="g5198">
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -89.826038,103.85414 c 0,0 -5.454655,-47.780951 -0.270173,-73.298798"
+           id="path5194"
+           inkscape:connector-curvature="0" />
+        <circle
+           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:8.47978592;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+           id="circle5196"
+           cx="-89.837547"
+           cy="34.321114"
+           r="7.1391239" />
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5200"
+         d="m -7.0205861,-80.548823 c 0,0 9.3158112,-4.112667 19.6246041,-1.23555"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       id="g5192"
+       transform="translate(-193.6374,-0.92591879)"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Head\Fuka_Head01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g5161"
+         transform="rotate(4.9091706,2127.6605,1094.63)"
+         style="display:inline;stroke:#000000;stroke-opacity:1">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5157"
+           d="m -89.826038,103.85414 c 0,0 -5.454655,-47.780951 -0.270173,-73.298798"
+           style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           sodipodi:nodetypes="cc" />
+        <circle
+           r="7.1391239"
+           cy="34.321114"
+           cx="-89.837547"
+           id="circle5159"
+           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:8.47978592;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers" />
+      </g>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -7.0205861,-80.548823 c 0,0 9.3158112,-4.112667 19.6246041,-1.23555"
+         id="path5163"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -249.94157,76.26974 V 26.60795 l 12.26658,-7e-5 V 13.99176 h 49.08492 l -4e-5,12.61563 h 13.05109 v 49.76069 l -12.48472,3e-5 -0.13135,24.54277 H -237.634 l -0.0657,-24.64094 z"
+       id="path4681"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Body\Fuka_Body01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Body\Fuka_Body01.png"
+       transform="translate(74.08711)"
+       id="g4687"
+       style="display:inline">
+      <rect
+         ry="0"
+         y="60.986454"
+         x="-313.39896"
+         height="10.847921"
+         width="51.329109"
+         id="rect4683"
+         style="opacity:1;vector-effect:none;fill:#00eb00;fill-opacity:1;stroke:none;stroke-width:3.69684529;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <path
+       style="display:inline;fill:#090909;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -221.39617,26.48029 c 0,0 -14.2875,15.875 1.32292,63.23542 l -17.56076,11.1951 -0.0657,-24.64094 -12.24186,-2e-4 V 26.60788 h 12.26658 V 13.991687 Z"
+       id="path4689"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Body\Fuka_Body01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -237.67499,26.60795 h -13.32491 v 49.66179 l 13.30019,2e-4 0.0657,24.64094 h 49.47891 l 0.13135,-24.54277 12.48472,-3e-5 V 26.60739 h -13.05109 l 4e-5,-12.61563 H -237.675 v 12.61612 l 49.08496,-4.9e-4 0.56636,49.76065 -12.419,-0.0983 v 12.6163 h -24.90373 l 5.9e-4,-12.6163 -12.3539,-2e-4 z"
+       id="path4691"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccc"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Body\Fuka_Body01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Body\Fuka_Body01.png"
+       sodipodi:nodetypes="cccccc"
+       style="display:inline;opacity:1;vector-effect:none;fill:#00c300;fill-opacity:1;stroke:none;stroke-width:3.69684529;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m -239.31185,60.936361 12.55504,-0.02339 0.86529,5.497441 1.0056,5.423957 h -14.42593 z"
+       id="path4693"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -213.10179,181.45482 v -36.99419 h 24.64089 v 12.22189 h 7.19305 v 12.48472 h 6.93022 v 12.22188 z"
+       id="path4563"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Foot\Fuka_Foot01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="display:inline;fill:#090909;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -195.59545,156.52307 c 0,0 -3.175,4.82865 0,12.43542 l -17.50634,12.49633 v -36.99419 z"
+       id="path4565"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Foot\Fuka_Foot01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37170652px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -213.10179,144.46063 v 36.99419 l 38.76416,-0.0657 V 169.1672 h -6.93022 v -12.48472 h -7.19305 v 12.3053 h -12.48748 v -12.35919 l 12.48748,0.0539 v -12.2219 z"
+       id="path4567"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\4.0 MyProjects\Unity\Game JaajJ\Lost Nijulixo\Assets\Resources\Characters\Fuka\Inkscape\Foot\Fuka_Foot01.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+</svg>

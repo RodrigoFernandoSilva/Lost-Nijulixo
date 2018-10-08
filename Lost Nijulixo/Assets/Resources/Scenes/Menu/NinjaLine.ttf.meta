@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 39c4f57c0ba0e6d4a9ae792f8039388b
+timeCreated: 1532930648
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NinjaLine
+  fontNames:
+  - NinjaLine
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

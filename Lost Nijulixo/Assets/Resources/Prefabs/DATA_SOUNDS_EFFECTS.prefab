@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1982437207385054}
+  m_IsPrefabParent: 1
+--- !u!1 &1982437207385054
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4510545125524060}
+  - component: {fileID: 114011173867612152}
+  m_Layer: 10
+  m_Name: DATA_SOUNDS_EFFECTS
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4510545125524060
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1982437207385054}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -84.6, y: -183.5623, z: 0}
+  m_LocalScale: {x: 0.3549611, y: 0.3549611, z: 0.35496116}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114011173867612152
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1982437207385054}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a9d10368eaac1149ab816c795aa7cd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - {fileID: 8300000, guid: 705f306373632d64789c34bb1357dfa6, type: 3}
+  - {fileID: 8300000, guid: e16490b9bbcb8344c938d4fb0c99d6e6, type: 3}
+  - {fileID: 8300000, guid: d2ab076e07cef6a4bbfdd9013fea3d16, type: 3}
+  - {fileID: 8300000, guid: c060099369205534b8bcdf93109797e7, type: 3}
+  - {fileID: 8300000, guid: b487899147d392947907c4da348fd23a, type: 3}
+  - {fileID: 8300000, guid: 8f3b5e9579979c546af775f9be4781f7, type: 3}
+  - {fileID: 8300000, guid: e5b1bf8e110802344b9c8f6264826ff2, type: 3}
+  - {fileID: 8300000, guid: 2c833cdef2a15c1469c9ed6ead64e602, type: 3}
+  - {fileID: 8300000, guid: c24c4e4b81832954dba3fe8171e41c4b, type: 3}
+  - {fileID: 8300000, guid: 2f3444183c48354479133e434c6baa8e, type: 3}
+  - {fileID: 8300000, guid: 178221adff22ba74c817a8c6da963eee, type: 3}
+  - {fileID: 8300000, guid: 56afa03f423116d42890af7fd27528c2, type: 3}
+  - {fileID: 8300000, guid: 6104f9770abc833419594fb75acf2266, type: 3}
+  - {fileID: 8300000, guid: 95eb3dec34923de45afe557572960e50, type: 3}
+  - {fileID: 8300000, guid: 2098fbf768ec303428225dd5a8071647, type: 3}
+  soundsVelume:
+  - 0.5
+  - 1
+  - 0.2
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
